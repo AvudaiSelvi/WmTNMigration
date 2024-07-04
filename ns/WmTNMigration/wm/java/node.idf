@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">WmTNMigration.wm.java</value>
+  <value name="node_pkg">WmTNMigration</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">CgoKIHB1YmxpYyBzdGF0aWMgQXJyYXlMaXN0PFN0cmluZz4gZXh0cmFjdERhdGFCZXR3ZWVuKFN0
+cmluZyBpbnB1dFN0cmluZywgU3RyaW5nIHN0YXJ0RGVsaW1pdGVyKSB7CiAgICAgICAgQXJyYXlM
+aXN0PFN0cmluZz4gcmVzdWx0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIFN0cmlu
+ZyByZWdleCA9IHN0YXJ0RGVsaW1pdGVyICsgIiguKj8pKD89KDw8PHwkKSkiOyAgLy8gUG9zaXRp
+dmUgbG9va2FoZWFkIHRvIG1hdGNoIHVudGlsIHRoZSBuZXh0ICc8PDwnIG9yIGVuZCBvZiBzdHJp
+bmcKICAgICAgICBQYXR0ZXJuIHBhdHRlcm4gPSBQYXR0ZXJuLmNvbXBpbGUocmVnZXgsIFBhdHRl
+cm4uRE9UQUxMKTsKICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIoaW5w
+dXRTdHJpbmcpOwoKICAgICAgICB3aGlsZSAobWF0Y2hlci5maW5kKCkpIHsKICAgICAgICAgICAg
+U3RyaW5nIG1hdGNoZWREYXRhID0gbWF0Y2hlci5ncm91cCgxKS50cmltKCk7CiAgICAgICAgICAg
+IHJlc3VsdExpc3QuYWRkKG1hdGNoZWREYXRhKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBy
+ZXN1bHRMaXN0OwogICAgfQogcHVibGljIHN0YXRpYyBBcnJheUxpc3Q8U3RyaW5nPiBwYXJzZVJ1
+bGUoU3RyaW5nIGlucHV0U3RyaW5nLCBTdHJpbmcgc3RhcnREZWxpbWl0ZXIpIHsKICAgICAgICBB
+cnJheUxpc3Q8U3RyaW5nPiByZXN1bHRMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAg
+U3RyaW5nIHJlZ2V4ID0gc3RhcnREZWxpbWl0ZXIgKyAgIiguKj8pKD89KCx8JCkpIjsgIC8vIFBv
+c2l0aXZlIGxvb2thaGVhZCB0byBtYXRjaCB1bnRpbCB0aGUgbmV4dCAnPDw8JyBvciBlbmQgb2Yg
+c3RyaW5nCiAgICAgICAgUGF0dGVybiBwYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKHJlZ2V4LCBQ
+YXR0ZXJuLkRPVEFMTCk7CiAgICAgICAgTWF0Y2hlciBtYXRjaGVyID0gcGF0dGVybi5tYXRjaGVy
+KGlucHV0U3RyaW5nKTsKCiAgICAgICAgd2hpbGUgKG1hdGNoZXIuZmluZCgpKSB7CiAgICAgICAg
+ICAgIFN0cmluZyBtYXRjaGVkRGF0YSA9IG1hdGNoZXIuZ3JvdXAoMSkudHJpbSgpOwogICAgICAg
+ICAgICByZXN1bHRMaXN0LmFkZChtYXRjaGVkRGF0YSk7CiAgICAgICAgfQoKICAgICAgICByZXR1
+cm4gcmVzdWx0TGlzdDsKIH0KICAgICAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBleHRyYWN0VmFs
+dWUoU3RyaW5nIGlucHV0U3RyaW5nLCBTdHJpbmcga2V5KSB7CgkgICAgICAgIFN0cmluZyByZWdl
+eCA9IGtleSArICJcXHMqPVxccyooW14sXSspIjsKCSAgICAgICAgUGF0dGVybiBwYXR0ZXJuID0g
+UGF0dGVybi5jb21waWxlKHJlZ2V4KTsKCSAgICAgICAgTWF0Y2hlciBtYXRjaGVyID0gcGF0dGVy
+bi5tYXRjaGVyKGlucHV0U3RyaW5nKTsKCQoJICAgICAgICBpZiAobWF0Y2hlci5maW5kKCkpIHsK
+CSAgICAgICAgICAgIHJldHVybiBtYXRjaGVyLmdyb3VwKDEpLnRyaW0oKTsKCSAgICAgICAgfSBl
+bHNlIHsKCSAgICAgICAgICAgIHJldHVybiBudWxsOwoJICAgICAgICB9CgkgICAgfSAgICAKIAkK
+IAkKIHB1YmxpYyBzdGF0aWMgU3RyaW5nICBleHRyYWN0UnVsZU5hbWVWYWx1ZShTdHJpbmcgaW5w
+dXRTdHJpbmcpIHsKCiAgICAgICAgU3RyaW5nIHJlZ2V4ID0gIig/cykoLio/KVxccypOYW1lOiI7
+ICAvLyBQb3NpdGl2ZSBsb29rYWhlYWQgdG8gbWF0Y2ggdW50aWwgdGhlIG5leHQgJzw8PCcgb3Ig
+ZW5kIG9mIHN0cmluZwogICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZShy
+ZWdleCwgUGF0dGVybi5ET1RBTEwpOwogICAgICAgIE1hdGNoZXIgbWF0Y2hlciA9IHBhdHRlcm4u
+bWF0Y2hlcihpbnB1dFN0cmluZyk7CgogICAgICAgIGlmIChtYXRjaGVyLmZpbmQoKSkgewogICAg
+ICAgICAgICByZXR1cm4gbWF0Y2hlci5ncm91cCgxKS50cmltKCk7CiAgICAgICAgfSBlbHNlIHsK
+ICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQogICAgfQogcHVibGljIHN0YXRpYyBT
+dHJpbmcgZ2VuZXJhdGVSYW5kb21OdW1lcmljUGFydChpbnQgbGVuZ3RoKSB7CiAgICAgICAgUmFu
+ZG9tIHJhbmRvbSA9IG5ldyBSYW5kb20oKTsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3
+IFN0cmluZ0J1aWxkZXIobGVuZ3RoKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0
+aDsgaSsrKSB7CiAgICAgICAgICAgIHNiLmFwcGVuZChyYW5kb20ubmV4dEludCgxMCkpOyAvLyBH
+ZW5lcmF0ZXMgYSByYW5kb20gZGlnaXQgKDAtOSkKICAgICAgICB9CiAgICAgICAgcmV0dXJuIHNi
+LnRvU3RyaW5nKCk7CiAgICB9Cgog</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.entrust.toolkit.asn1.structures.Time</value>
+    <value>com.ibm.icu.util.TimeZone</value>
+    <value>java.io.BufferedReader</value>
+    <value>java.io.File</value>
+    <value>java.io.FileNotFoundException</value>
+    <value>java.io.FileOutputStream</value>
+    <value>java.io.IOException</value>
+    <value>java.io.InputStreamReader</value>
+    <value>java.lang.ProcessBuilder.Redirect</value>
+    <value>java.nio.file.Files</value>
+    <value>java.nio.file.Path</value>
+    <value>java.nio.file.Paths</value>
+    <value>java.time.Instant</value>
+    <value>java.time.LocalDateTime</value>
+    <value>java.util.ArrayList</value>
+    <value>java.util.HashMap</value>
+    <value>java.util.Map</value>
+    <value>java.util.Random</value>
+    <value>java.util.Scanner</value>
+    <value>java.util.regex.Matcher</value>
+    <value>java.util.regex.Pattern</value>
+  </array>
+</Values>
